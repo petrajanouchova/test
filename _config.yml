@@ -7,19 +7,22 @@ gems:
 
 exclude:
   - "/vendor/"
+# Title of your website
+title: Petrified voices
+# The slogan describes your website and is used on homepage in <title> and other important places
+subtitle: Petra's research on quantitative digital epigraphy
+# The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
+description: Petra's personal research on why people created thousands written messages into stone and what are they telling about us
+show_downloads: true
+google_analytics:
+email: petra.janouchova@gmail.com
+name: Petra Janouchova
 
-# Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
-description: >
-  A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "/centrarium" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
+baseurl: "/petrajanouchova" # the subpath of your site, e.g. /blog/
+url: "http://petrajanouchova.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
