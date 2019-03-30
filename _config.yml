@@ -66,12 +66,12 @@ descriptions:
 # Example:
 #
  social:
-   - name: Twitter                         # Name of the service
-     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
-     username: "@japettulda"             # (User) Name to display in the footer link
-     url: https://twitter.com/japettulda # URL of your profile (leave blank to not display in footer)
-     desc: Follow me on Twitter            # Description to display as link title, etc
-     share: true                           # Include in the "Share" section of posts
+  - name: Twitter                         # Name of the service
+    icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
+    username: "@japettulda"             # (User) Name to display in the footer link
+    url: https://twitter.com/japettulda # URL of your profile (leave blank to not display in footer)
+    desc: Follow me on Twitter            # Description to display as link title, etc
+    share: true                           # Include in the "Share" section of posts
 social:
   - name: GitHub
     icon: github
