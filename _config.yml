@@ -5,8 +5,8 @@
 # - jekyll-sitemap
 # - jekyll-paginate
 
-exclude:
-  - "/vendor/"
+#exclude:
+#  - "/vendor/"
 # Title of your website
 title: Petrified voices
 # The slogan describes your website and is used on homepage in <title> and other important places
