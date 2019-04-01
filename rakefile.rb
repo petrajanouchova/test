@@ -1,12 +1,11 @@
 require "rubygems"
 require "tmpdir"
-
 require "bundler/setup"
 require "jekyll"
 
 
 # Change your GitHub reponame
-GITHUB_REPONAME = "https://github.com/petrajanouchova/test"
+GITHUB_REPONAME = "petrajanouchova/test"
 
 
 desc "Generate blog files"
