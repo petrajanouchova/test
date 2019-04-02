@@ -9,10 +9,10 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Petrified voices
+title: "Petrified voices"
 subtitle: "Petra's personal research on why people created thousands messages written into stone and what can we learn from them"
-email: petra.janouchova@gmail.com
-name: Petra Janouchova
+email: "petra.janouchova@gmail.com"
+name: "Petra Janouchova"
 description: >
   Petra's research on quantitative digital epigraphy.
 # Base URL of site (i.e. /blog). It should always start with a slash,
